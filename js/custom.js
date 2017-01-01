@@ -1,0 +1,1 @@
+$(".bdwm-dialog-wrapper").remove();
